@@ -1,10 +1,11 @@
-git clone 
-cd wikipedia-stream 
-npm install 
-node index.js 
+## Installation & Setup 
+```bash 
+  git clone 
+  cd wikipedia-stream 
+  npm install 
+  node index.js
 
-
-wikipedia-stream/
+#wikipedia-stream/
 - index.js         # Entry point
 - stream.js        # Connects to Wikipedia SSE stream
 - report.js        # Generates reports
